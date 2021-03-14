@@ -18,7 +18,7 @@ O repositório é dividido nas seguintes pastas:
   - Aula 8 - pandas
   - Aula 9 - programação orientada a objetos
   - Aula 10 - requests, json e APIs
-  - minha_biblioteca
-  - minha_biblioteca
+  - minha_biblioteca.ipynb - notebook com funções de biblioteca
+  - minha_biblioteca.py - funções de biblioteca
 
 - datasets: pasta com alguns dos datasets utilizados nas aulas.
